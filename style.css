@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif,"Roboto";
+}
+h1{
+    background-color: #60AAAF;
+    text-align: center;
+    padding: 25px;
+}
+a{
+    color: black;
+    border-radius: 25px;
+    background-color: #60AAAF;
+    text-decoration: solid;
+    margin: 75px;
+    padding: 10px;
+    text-align: center;
+}
+p{
+
+}
+img{
+
+}
+header{
+    text-align: center;
+}
+h4{
+    
+}
